@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Kiartichai0/react_2-9-2563/static/css/main.0ebde3ef.chunk.css",
+    "main.js": "/Kiartichai0/react_2-9-2563/static/js/main.5770503b.chunk.js",
+    "main.js.map": "/Kiartichai0/react_2-9-2563/static/js/main.5770503b.chunk.js.map",
+    "runtime-main.js": "/Kiartichai0/react_2-9-2563/static/js/runtime-main.04cfc06a.js",
+    "runtime-main.js.map": "/Kiartichai0/react_2-9-2563/static/js/runtime-main.04cfc06a.js.map",
+    "static/js/2.4bd49244.chunk.js": "/Kiartichai0/react_2-9-2563/static/js/2.4bd49244.chunk.js",
+    "static/js/2.4bd49244.chunk.js.map": "/Kiartichai0/react_2-9-2563/static/js/2.4bd49244.chunk.js.map",
+    "index.html": "/Kiartichai0/react_2-9-2563/index.html",
+    "precache-manifest.850d477da07036d889e4eec5478bb1cb.js": "/Kiartichai0/react_2-9-2563/precache-manifest.850d477da07036d889e4eec5478bb1cb.js",
+    "service-worker.js": "/Kiartichai0/react_2-9-2563/service-worker.js",
+    "static/css/main.0ebde3ef.chunk.css.map": "/Kiartichai0/react_2-9-2563/static/css/main.0ebde3ef.chunk.css.map",
+    "static/js/2.4bd49244.chunk.js.LICENSE.txt": "/Kiartichai0/react_2-9-2563/static/js/2.4bd49244.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04cfc06a.js",
+    "static/js/2.4bd49244.chunk.js",
+    "static/css/main.0ebde3ef.chunk.css",
+    "static/js/main.5770503b.chunk.js"
+  ]
+}
